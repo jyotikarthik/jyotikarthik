@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...Some ideas and creavtivity.
 - 📫 How to reach me: ...Instagram/Telegram
 - 😄 Pronouns: ...she/her
-- ⚡ Fun fact: ...i am a learner
+- ⚡ Fun fact: ...I am a learner
 -->
