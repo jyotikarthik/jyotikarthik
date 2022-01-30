@@ -6,7 +6,7 @@
   <li>Learing full stack we development from Coursera.</li>
   </ul>
    <b>Languages learnt<b>
-    <span><u> Python JAVA SQL HTML CSS .NET<u></span>
+    <p><u> Python JAVA SQL HTML CSS .NET<u></p>
     
    
 
