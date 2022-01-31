@@ -5,7 +5,7 @@
   </div>
  <ul>
   <li>Learing Computer Science at Mulund College of Commerce.</li>
-  <li>Learing full stack we development from Coursera.</li>
+  <li>Learing full stack web development from Coursera.</li>
   </ul>
    <b>Languages learnt🤓<b>
     <ul> <li>Python🐍</li>
