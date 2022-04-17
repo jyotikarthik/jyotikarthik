@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jyoti</h1>
 <h3 align="center">Explorer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotikarthik" alt="jyotikarthik" /></a> </p>
-
 - 🌱 I’m currently learning **Web development and android development.**
 
 - 📫 How to reach me **jyotikarthik09@gmail.com**
