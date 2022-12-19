@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jyoti</h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Android+developer;Full+Stack+Web+Developer;Explorer;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Enthusiast;Full+Stack+Web+Developer;Explorer;&center=true&width=380&height=45"></a>
 </p>
 
 - 🌱 I’m currently learning **Web development and android development.**
